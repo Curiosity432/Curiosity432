@@ -4,7 +4,7 @@
 - 💞️ I’m using the blogging workflow: Obsidian.md (for notes and 2nd brain) + GitHub (repository) + Netlify (hosting platform)
 - 🔖 My blog is hosted on Netlify: [C432 | Netlify](https://c432.netlify.app)
 - 📫 How to reach me [Curiosity432 | Odysee](https://odysee.com/@curiosity432:d), [Curiosity432 | Twitter](https://twitter.com/curiosity432), [Curiosity432 | Youtube](https://www.youtube.com/channel/UCwfBPILhdtGY-JoANIjQg7A).
-- 📝 Contact to 432curiosity(@)gmail.com without parenthesis.
+- 📝 Contact: 432curiosity(@)gmail.com (without parenthesis).
 
 <!---
 Curiosity432/Curiosity432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
