@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make a SSG (Static Site generator) blog written in markdown format
 - 💞️ I’m using this workflow: an IDE (Atom.io / Obsidian.md (for markdown) / VS Code) + repository site (GitHub) + hosting services (Netlify) with the framework HUGO
 - 🔖 My blog: [Curiosity432 Blog](https://curiosity432.netlify.app)
-- 📫 How to reach me: 
+- 📫 My social networks: 
   - [Curiosity432 | Odysee](https://odysee.com/@curiosity432:d)
   - [Curiosity432 | Twitter](https://twitter.com/curiosity432)
   - [Curiosity432 | Youtube](https://www.youtube.com/channel/UCwfBPILhdtGY-JoANIjQg7A)
