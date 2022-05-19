@@ -4,9 +4,9 @@
 - 💞️ I’m using this workflow: an IDE (Atom.io / Obsidian.md (for markdown) / VS Code) + repository site (GitHub) + hosting services (Netlify) with the framework HUGO
 - 🔖 My blog: [Curiosity432 Blog](https://curiosity432.netlify.app)
 - 📫 My social networks: 
-  - [Curiosity432 | Odysee](https://odysee.com/@curiosity432:d)
+  - [Curiosity432 | Odysee](https://odysee.com/@curiosity432:d), [C432 | Odysee](https://odysee.com/@C432:b)
   - [Curiosity432 | Twitter](https://twitter.com/curiosity432)
-  - [Curiosity432 | Youtube](https://www.youtube.com/channel/UCwfBPILhdtGY-JoANIjQg7A)
+  - [Curiosity432 | Youtube](https://www.youtube.com/channel/UCwfBPILhdtGY-JoANIjQg7A), [C432 | Youtube](https://www.youtube.com/channel/UCLy8Rf0TdYLVwLdd2FfMkjQ)
 - 📝 Contact: 432curiosity(@)gmail.com
 
 <!---
