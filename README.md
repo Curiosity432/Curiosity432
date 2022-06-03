@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning web development
 - 💞️ My workflow = IDE (Obsidian.md / VSCodium) + framework (HUGO) + repository (GitHub) + hosting service (Netlify)
 - 🔖 My blog: [Curiosity432 Blog](https://curiosity432.netlify.app)
-- 📫 My social networks:
-  - [Curiosity432 | Twitter](https://twitter.com/curiosity432)
+- 📫 My video platforms:
+  - [Curiosity432 | Telegram Channel](https://t.me/curiosity432), [Curiosity432 | Twitter](https://twitter.com/curiosity432)
   - [Curiosity432 | Odysee](https://odysee.com/@curiosity432:d), [C432 | Odysee](https://odysee.com/@C432:b)
   - [Curiosity432 | Youtube](https://www.youtube.com/channel/UCwfBPILhdtGY-JoANIjQg7A), [C432 | Youtube](https://www.youtube.com/channel/UCLy8Rf0TdYLVwLdd2FfMkjQ)
 - 📝 Contact: 432curiosity(@)gmail.com
