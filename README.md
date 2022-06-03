@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Curiosity432
 - 👀 I’m interested in blogging about science, computing, photography, music, designer and much more
-- 🌱 I’m currently learning how to make a SSG (Static Site generator) blog written in markdown format
-- 💞️ I’m using this workflow: an IDE (Obsidian.md / VSCodium) + repository (GitHub) + hosting service (Netlify) with the framework (HUGO)
+- 🌱 I’m currently learning web development
+- 💞️ My workflow = IDE (Obsidian.md / VSCodium) + framework (HUGO) + repository (GitHub) + hosting service (Netlify)
 - 🔖 My blog: [Curiosity432 Blog](https://curiosity432.netlify.app)
 - 📫 My social networks:
   - [Curiosity432 | Twitter](https://twitter.com/curiosity432)
